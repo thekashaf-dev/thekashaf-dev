@@ -20,12 +20,8 @@ I'm a Software Engineering student passionate about programming, technology, and
 ### 🎯 My Goals
 - Build practical AI/ML projects.
 - Strengthen my problem-solving skills.
-- Learn and explore new technologies.
+- Build and deploy an AI chatbot.
 - Grow as an AI/ML Engineer.
 
 ### 📫 Connect With Me
 - linkedin.com/in/kashaf-maqsood-456b33420/
-
----
-
-*Build and deploy an AI chatbot.* 
