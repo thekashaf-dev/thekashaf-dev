@@ -24,8 +24,8 @@ I'm a Software Engineering student passionate about programming, technology, and
 - Grow as an AI/ML Engineer.
 
 ### 📫 Connect With Me
-- LinkedIn: Add your LinkedIn URL here
+- linkedin.com/in/kashaf-maqsood-456b33420/
 
 ---
 
-*Learning, building, and improving one step at a time.* 
+*Build and deploy an AI chatbot.* 
