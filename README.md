@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hey there! I'm Kashaf Maqsood 👋
 
-<!--
-**thekashaf-dev/thekashaf-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Software Engineering Student | Python Developer | Aspiring AI/ML Engineer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Software Engineering student passionate about programming, technology, and Artificial Intelligence.
+
+### 🚀 Currently Exploring
+- Machine Learning
+- Artificial Intelligence
+- Data Science
+- Python Development
+
+### 🛠️ Tech Stack
+- **Languages:** Python, SQL
+- **Libraries:** NumPy, Pandas, Scikit-learn
+- **Tools:** Git, GitHub, Jupyter Notebook
+
+### 🎯 My Goals
+- Build practical AI/ML projects.
+- Strengthen my problem-solving skills.
+- Learn and explore new technologies.
+- Grow as an AI/ML Engineer.
+
+### 📫 Connect With Me
+- LinkedIn: Add your LinkedIn URL here
+
+---
+
+*Learning, building, and improving one step at a time.* 
